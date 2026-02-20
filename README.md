@@ -12,3 +12,9 @@ Phenylketonuria (PKU) is a rare inherited disorder in which the body is unable t
 
 ## Next Steps 
  - Have the Application run on apple devices such as iphone and ipads.
+
+## Images 
+- Laptop:
+<img width="1910" height="891" alt="Screenshot 2026-02-20 135926" src="https://github.com/user-attachments/assets/560b9a6b-15e3-43fd-9d93-f36bf43f3b19" />
+- Andriod Mobile
+
