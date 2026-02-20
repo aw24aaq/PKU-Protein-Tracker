@@ -4,6 +4,10 @@
 
 Phenylketonuria (PKU) is a rare inherited disorder in which the body is unable to break down the amino acid phenylalanine, causing it to accumulate to harmful levels and potentially lead to serious health issues if not managed.
 
+## Why have i created this:
+
+- I choose to complete this task because my sister has PKU. I asked her what kind of application would genuinely support her day‑to‑day needs, and she explained that she would like an app that helps her track her daily intake and review previous days. Her feedback directly informed the design and purpose of this project.
+
 ## To run this web / application, you will need:
 
 - A laptop or an Android mobile device
